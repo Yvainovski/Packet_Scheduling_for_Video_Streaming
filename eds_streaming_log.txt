@@ -1,0 +1,511 @@
+Lost 0
+Received 0 I 
+Received 3 P 
+Received 4 P 
+Lost 1
+Received 6 P 
+Received 7 P 
+Lost 2
+Received 8 P 
+Received 9 P 
+Received 10 I 
+Received 11 P 
+Received 12 P 
+Lost 5
+Received 18 P 
+Received 19 P 
+Received 20 I 
+Received 21 P 
+Received 22 P 
+Received 23 P 
+Received 24 P 
+Received 25 I 
+Received 29 P 
+Received 30 I 
+Lost 13
+Lost 14
+Received 33 P 
+Received 34 P 
+Lost 15
+Received 35 I 
+Received 36 P 
+Lost 16
+Received 37 P 
+Received 38 P 
+Lost 17
+Received 41 P 
+Received 43 P 
+Received 50 I 
+Received 53 P 
+Received 54 P 
+Received 55 I 
+Received 56 P 
+Lost 26
+Received 57 P 
+Received 58 P 
+Lost 27
+Received 59 P 
+Received 60 I 
+Lost 28
+Received 61 P 
+Received 62 P 
+Received 63 P 
+Received 65 I 
+Received 66 P 
+Lost 31
+Received 67 P 
+Lost 32
+Received 69 P 
+Received 70 I 
+Received 71 P 
+Received 72 P 
+Received 73 P 
+Received 74 P 
+Received 76 P 
+Received 77 P 
+Received 78 P 
+Received 81 P 
+Received 82 P 
+Lost 39
+Received 83 P 
+Received 84 P 
+Lost 40
+Received 85 I 
+Received 86 P 
+Received 87 P 
+Received 88 P 
+Lost 42
+Received 89 P 
+Received 90 I 
+Received 91 P 
+Lost 44
+Received 93 P 
+Received 94 P 
+Lost 45
+Received 95 I 
+Received 96 P 
+Lost 46
+Lost 47
+Received 99 P 
+Lost 48
+Received 101 P 
+Lost 49
+Received 103 P 
+Received 104 P 
+Lost 51
+Received 107 P 
+Received 108 P 
+Received 109 P 
+Lost 52
+Received 110 I 
+Received 111 P 
+Received 113 P 
+Received 114 P 
+Received 117 P 
+Received 118 P 
+Received 120 I 
+Received 122 P 
+Received 123 P 
+Received 125 I 
+Received 126 P 
+Received 127 P 
+Received 131 P 
+Received 132 P 
+Received 133 P 
+Lost 64
+Received 134 P 
+Received 135 I 
+Received 137 P 
+Received 138 P 
+Received 139 P 
+Received 140 I 
+Received 141 P 
+Lost 68
+Received 146 P 
+Received 150 I 
+Received 151 P 
+Received 154 P 
+Lost 75
+Received 156 P 
+Received 157 P 
+Received 158 P 
+Received 159 P 
+Received 161 P 
+Received 162 P 
+Received 163 P 
+Lost 79
+Received 164 P 
+Received 165 I 
+Lost 80
+Received 167 P 
+Received 168 P 
+Received 169 P 
+Received 170 I 
+Received 171 P 
+Received 172 P 
+Received 173 P 
+Received 174 P 
+Received 175 I 
+Received 176 P 
+Received 177 P 
+Received 180 I 
+Received 181 P 
+Received 182 P 
+Received 183 P 
+Received 184 P 
+Received 187 P 
+Received 188 P 
+Lost 92
+Received 190 I 
+Received 191 P 
+Received 192 P 
+Received 196 P 
+Received 197 P 
+Received 198 P 
+Received 199 P 
+Lost 97
+Received 201 P 
+Lost 98
+Received 202 P 
+Received 203 P 
+Lost 100
+Received 206 P 
+Received 207 P 
+Received 209 P 
+Lost 102
+Received 210 I 
+Received 211 P 
+Received 213 P 
+Received 215 I 
+Lost 105
+Received 217 P 
+Lost 106
+Received 218 P 
+Received 221 P 
+Received 224 P 
+Received 225 I 
+Received 226 P 
+Received 227 P 
+Received 228 P 
+Received 229 P 
+Received 230 I 
+Lost 112
+Received 231 P 
+Received 232 P 
+Received 233 P 
+Received 234 P 
+Received 235 I 
+Lost 115
+Received 237 P 
+Received 238 P 
+Lost 116
+Received 241 P 
+Received 242 P 
+Received 243 P 
+Received 244 P 
+Lost 119
+Received 245 I 
+Received 246 P 
+Received 247 P 
+Lost 121
+Received 249 P 
+Received 250 I 
+Received 251 P 
+Received 252 P 
+Received 253 P 
+Lost 124
+Received 254 P 
+Received 255 I 
+Received 259 P 
+Received 260 I 
+Lost 128
+Lost 129
+Received 264 P 
+Received 265 I 
+Received 266 P 
+Lost 130
+Received 268 P 
+Received 269 P 
+Received 270 I 
+Received 271 P 
+Received 272 P 
+Received 273 P 
+Received 274 P 
+Received 275 I 
+Received 276 P 
+Received 277 P 
+Lost 136
+Received 278 P 
+Received 282 P 
+Received 283 P 
+Received 285 I 
+Received 287 P 
+Lost 142
+Lost 143
+Received 293 P 
+Received 294 P 
+Lost 144
+Received 295 I 
+Lost 145
+Received 297 P 
+Received 298 P 
+Lost 147
+Lost 148
+Received 304 P 
+Lost 149
+Received 305 I 
+Received 306 P 
+Received 309 P 
+Received 310 I 
+Lost 152
+Received 312 P 
+Lost 153
+Received 313 P 
+Received 314 P 
+Received 315 I 
+Lost 155
+Received 317 P 
+Received 318 P 
+Received 320 I 
+Received 321 P 
+Received 322 P 
+Received 323 P 
+Received 324 P 
+Received 325 I 
+Lost 160
+Received 328 P 
+Received 330 I 
+Received 331 P 
+Received 333 P 
+Received 334 P 
+Received 337 P 
+Received 338 P 
+Lost 166
+Received 339 P 
+Received 340 I 
+Received 341 P 
+Received 342 P 
+Received 343 P 
+Received 344 P 
+Received 345 I 
+Received 346 P 
+Received 347 P 
+Received 348 P 
+Received 350 I 
+Received 352 P 
+Received 355 I 
+Received 357 P 
+Received 358 P 
+Received 359 P 
+Received 360 I 
+Received 361 P 
+Lost 178
+Received 363 P 
+Received 364 P 
+Lost 179
+Received 367 P 
+Received 368 P 
+Received 371 P 
+Received 374 P 
+Received 376 P 
+Lost 185
+Received 378 P 
+Lost 186
+Received 379 P 
+Received 382 P 
+Received 383 P 
+Lost 189
+Received 385 I 
+Received 386 P 
+Received 388 P 
+Received 389 P 
+Received 390 I 
+Received 391 P 
+Received 392 P 
+Lost 193
+Received 393 P 
+Received 394 P 
+Lost 194
+Lost 195
+Received 397 P 
+Received 401 P 
+Received 402 P 
+Received 403 P 
+Received 404 P 
+Received 405 I 
+Received 406 P 
+Lost 200
+Received 408 P 
+Received 409 P 
+Received 410 I 
+Received 412 P 
+Received 413 P 
+Received 414 P 
+Lost 204
+Lost 205
+Received 417 P 
+Received 418 P 
+Received 419 P 
+Received 420 I 
+Received 421 P 
+Received 422 P 
+Lost 208
+Received 423 P 
+Received 424 P 
+Received 427 P 
+Received 429 P 
+Received 430 I 
+Lost 212
+Received 431 P 
+Received 432 P 
+Received 433 P 
+Received 434 P 
+Lost 214
+Received 435 I 
+Received 436 P 
+Received 437 P 
+Received 438 P 
+Lost 216
+Received 440 I 
+Received 441 P 
+Received 443 P 
+Received 444 P 
+Lost 219
+Received 445 I 
+Lost 220
+Received 448 P 
+Lost 222
+Received 451 P 
+Received 452 P 
+Lost 223
+Received 453 P 
+Received 454 P 
+Received 455 I 
+Received 457 P 
+Received 458 P 
+Received 461 P 
+Received 463 P 
+Received 464 P 
+Received 465 I 
+Received 466 P 
+Received 467 P 
+Received 468 P 
+Received 470 I 
+Received 472 P 
+Received 474 P 
+Received 475 I 
+Received 476 P 
+Lost 236
+Received 479 P 
+Received 480 I 
+Received 481 P 
+Received 483 P 
+Received 484 P 
+Lost 239
+Lost 240
+Received 488 P 
+Received 489 P 
+Received 491 P 
+Received 492 P 
+Received 495 I 
+Received 496 P 
+Received 497 P 
+Received 498 P 
+Received 499 P 
+Received 502 P 
+Lost 248
+Received 503 P 
+Received 504 P 
+Received 505 I 
+Received 506 P 
+Received 507 P 
+Received 508 P 
+Received 509 P 
+Lost 256
+Lost 257
+Lost 258
+Lost 261
+Lost 262
+Lost 263
+Lost 267
+Lost 279
+Lost 280
+Lost 281
+Lost 284
+Lost 286
+Lost 288
+Lost 289
+Lost 290
+Lost 291
+Lost 292
+Lost 296
+Lost 299
+Lost 300
+Lost 301
+Lost 302
+Lost 303
+Lost 307
+Lost 308
+Lost 311
+Lost 316
+Lost 319
+Lost 326
+Lost 327
+Lost 329
+Lost 332
+Lost 335
+Lost 336
+Lost 349
+Lost 351
+Lost 353
+Lost 354
+Lost 356
+Lost 362
+Lost 365
+Lost 366
+Lost 369
+Lost 370
+Lost 372
+Lost 373
+Lost 375
+Lost 377
+Lost 380
+Lost 381
+Lost 384
+Lost 387
+Lost 395
+Lost 396
+Lost 398
+Lost 399
+Lost 400
+Lost 407
+Lost 411
+Lost 415
+Lost 416
+Lost 425
+Lost 426
+Lost 428
+Lost 439
+Lost 442
+Lost 446
+Lost 447
+Lost 449
+Lost 450
+Lost 456
+Lost 459
+Lost 460
+Lost 462
+Lost 469
+Lost 471
+Lost 473
+Lost 477
+Lost 478
+Lost 482
+Lost 485
+Lost 486
+Lost 487
+Lost 490
+Lost 493
+Lost 494
+Lost 500
+Lost 501
